@@ -1,4 +1,4 @@
-# economy-bot
+# V12 Economy Bot
 v12 Open source economy bot
 
 
