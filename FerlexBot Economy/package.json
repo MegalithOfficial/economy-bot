@@ -1,0 +1,21 @@
+{
+  "name": "brazen-paint-dible",
+  "version": "0.0.1",
+  "description": "Discord.js v12 boş altyapı.",
+  "main": "bot.js",
+  "author": "Vu4ll",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.5.1",
+    "fs": "^0.0.2",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
